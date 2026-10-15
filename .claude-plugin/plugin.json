@@ -1,0 +1,9 @@
+{
+  "name": "intrusion-log",
+  "version": "0.1.0",
+  "description": "Hacker-style live pane streaming every tool call",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "adamsrnmsu"
+  }
+}

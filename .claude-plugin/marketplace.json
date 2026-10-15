@@ -1,0 +1,6 @@
+{
+  "name": "claude-intrusion-log",
+  "owner": { "name": "adamsrnmsu" },
+  "description": "Hacker-style live tool-call log and session debrief for Claude Code",
+  "plugins": [{ "name": "intrusion-log", "source": "./" }]
+}
